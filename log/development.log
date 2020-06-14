@@ -202,6 +202,7 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 23ms (Views: 21.2ms | ActiveRecord: 0.3ms)
 
 
+<<<<<<< HEAD
 Started GET "/articles/1" for 70.123.204.236 at 2020-06-14 16:45:17 +0000
 Cannot render console from 70.123.204.236! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
 Processing by ArticlesController#show as HTML
@@ -221,3 +222,5 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 22ms (Views: 20.2ms | ActiveRecord: 0.3ms)
 
 
+=======
+>>>>>>> 7cb53718108a27ccb56b1a5128974772f9026a2f
